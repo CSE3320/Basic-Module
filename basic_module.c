@@ -8,7 +8,7 @@
 #include <linux/uaccess.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Trevor Bakker <tbakker@gmail.com");
+MODULE_AUTHOR("Trevor Bakker <trevor.bakker@uta.edu");
 MODULE_DESCRIPTION("Basic module");
 
 /** @brief This function is called each time the device is opened.
